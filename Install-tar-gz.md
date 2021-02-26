@@ -10,7 +10,7 @@
 
 4. create symbolic link
 
-  `sudo ln -s /opt/[app_name]/[executable_file] /usr/bin/[app_name]
+  `sudo ln -s /opt/[app_name]/[executable_file] /usr/bin/[app_name]`
 
 5. creating desktop icon
 
