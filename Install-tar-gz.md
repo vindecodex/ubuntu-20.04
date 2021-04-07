@@ -29,4 +29,12 @@ Type=Application
 Categories=Development
 ```
 
+** Other ways for adding desktop icon
+
+1. First save the .desktop file anywhere
+2. Use `desktop-file-install` command
+  `sudo desktop-file-install your_desktop_file`
+
+---
+
 Now Your Application is searchable and can be run through command: app_name
